@@ -61,10 +61,12 @@ DevOps Projects
 <h2>👀 Stats</h2>
 
 <div>
-<!--   <p align="center">
+   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+    <a href="https://https://spotify-now-playing-ax99od9p4-markjsapp.vercel.app/now-playing?open">
+    <img src="https://https://spotify-now-playing-ax99od9p4-markjsapp.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+  </p>
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
