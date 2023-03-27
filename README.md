@@ -20,7 +20,7 @@ In my current role, I've taken on a variety of responsibilities, such as writing
 Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺 All this and more help me unwind and recharge after a long day at work.
 
 <h2> 🎓Skills </h2>
-```
+
 | Languages       | Frameworks & Libraries | Tools & Software       |
 |-----------------|------------------------|------------------------|
 | JavaScript      | React                  | PyCharm                |
@@ -37,7 +37,6 @@ Outside of my professional life, I love music, coffee, playing the guitar, colle
 |                 | TDD                    | Microsoft Office       |
 |                 | Chakram                | AWS CodeBuild/Pipelines|
 |                 | Mocha                  | Slack                  |
-```
 
 <h2>💻 I'm Currently working on</h2>
 
