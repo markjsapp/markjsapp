@@ -1,14 +1,3 @@
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
--->
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=markjsapp.laxmena)](https://github.com/markjsapp) [![GitHub followers](https://img.shields.io/github/followers/markjsapp.svg?style=social&label=Follow)](https://github.com/markjsapp?tab=followers)
 
 <h2>🎸 About Me (he/him)</h2>
@@ -59,13 +48,13 @@ DevOps Projects
 
 <h2>👀 Stats</h2>
 
-<div>
+<!--<div>
    <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <a href="https://https://spotify-now-playing-ax99od9p4-markjsapp.vercel.app/now-playing?open">
     <img src="https://https://spotify-now-playing-ax99od9p4-markjsapp.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
-  </p>
+  </p>-->
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
