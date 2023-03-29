@@ -60,7 +60,10 @@ DevOps Projects
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=markjsapp" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity:</em></b> <br/>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+ ```text
+
+```<!--END_SECTION:waka-->
   </p>
 </div>
 
