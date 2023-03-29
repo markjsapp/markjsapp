@@ -4,9 +4,9 @@
  
 Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College.
 
-In my current role, I've taken on a variety of responsibilities, such as writing test cases, testing tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests. It's a challenging and rewarding position that allows me to grow professionally.
+In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests.
 
-Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺 All this and more help me unwind and recharge after a long day at work.
+Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺
 
 <h2> 🎓Skills </h2>
 
