@@ -1,8 +1,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=markjsapp.laxmena)](https://github.com/markjsapp) [![GitHub followers](https://img.shields.io/github/followers/markjsapp.svg?style=social&label=Follow)](https://github.com/markjsapp?tab=followers)
 
-<h2>🎸 About Me (he/him)</h2>
+<h2>🎸 About Me </h2>
  
-Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College.
+Sup! 👋 My name is Mark (he/him), and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College.
 
 In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests.
 
