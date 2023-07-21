@@ -44,7 +44,6 @@ DevOps Projects
 - Infrastructure As Code Audit Tool
 - ChatOps
 - Severless Architecture
-- Scripting Tool
 
 <h2>👀 Stats</h2>
 
