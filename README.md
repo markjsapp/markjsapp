@@ -2,9 +2,9 @@
 
 <h2>🎸 About Me </h2>
  
-Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College.
+Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College and I've recently obtained my Amazon Web Services Cloud Practitioner certification!
 
-In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests.
+In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests, creating QA tools, improving QA processes, DOCUMENTATION DOCUMENTATION DOCUMENTATION, and standing up automation frameworks.
 
 Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺
 
@@ -36,8 +36,6 @@ QA Projects
 - Bug Tracking System
 
 DevOps Projects
-- Infrastructure Automation
-- CI/CD Pipeline
 - Containerization
 - Cloud Deployment
 - DevOps Dashboard
