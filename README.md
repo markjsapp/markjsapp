@@ -2,11 +2,11 @@
 
 <h2>🎸 About Me </h2>
  
-Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny Central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College and I've recently obtained my Amazon Web Services Cloud Practitioner certification!
+Sup! 👋 My name is Mark, and I'm a Quality Assurance Engineer currently living and working in Washington D.C. I hail from sunny central Florida. I have a CS degree from Florida Southern College and an AA in Music Education from Polk State College and I've recently obtained my Amazon Web Services Cloud Practitioner certification!
 
-In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests, creating QA tools, improving QA processes, DOCUMENTATION DOCUMENTATION DOCUMENTATION, and standing up automation frameworks.
+In my current role, I've taken on a variety of responsibilities, such as writing test cases/tickets, automating manual test scenarios, validating and deploying release code, leading morning meetings, and identifying and filling testing gaps between QA and Dev unit tests, creating QA tools, improving QA processes, DOCUMENTATION DOCUMENTATION DOCUMENTATION, and standing up and improving automation frameworks.
 
-Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺
+Outside of my professional life, I love music, coffee, playing the guitar, collecting vinyl, thrifting, traveling, and video games. And when I'm not doing that, you can find me hanging out with my girlfriend and her adorable cat, Derby 😺
 
 <h2> 🎓Skills </h2>
 
@@ -27,21 +27,13 @@ Outside of my professional life, I love music, coffee, playing the guitar, colle
 |                 | Chakram                | AWS CodeBuild/Pipelines|
 |                 | Mocha                  | Slack                  |
 
-<h2>💻 I'm Currently working on</h2>
+<h2>💻 I'm Currently working on:</h2>
 
-QA Projects
-- Selenium Automation Framework 
-- Performance Testing Suite 
-- Code Coverage Tool
-- Bug Tracking System
-
-DevOps Projects
-- Containerization
-- Cloud Deployment
-- DevOps Dashboard
-- Infrastructure As Code Audit Tool
-- ChatOps
-- Severless Architecture
+-A Multi Browser WDIO based testing framework
+-A Mocha wrapper for test tagging in WDIO
+-Studying for the AWS Solutions Architect certification
+-Building a custom Slack bot with Bolt
+-Eyeballing some XCode/Swift projects
 
 <h2>👀 Stats</h2>
 
