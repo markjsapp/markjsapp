@@ -27,7 +27,7 @@ Outside of my professional life, I love music, coffee, playing the guitar, colle
 |                 | Chakram                | AWS CodeBuild/Pipelines|
 |                 | Mocha                  | Slack                  |
 
-<h2>💻 I'm Currently working on:</h2>
+<h2>💻 I'm Currently Working On</h2>
 
 -A Multi Browser WDIO based testing framework
 -A Mocha wrapper for test tagging in WDIO
